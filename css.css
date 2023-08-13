@@ -1,0 +1,161 @@
+*{
+    /*background-color: grey;*/
+    color: white;
+       margin: 5px;
+       font-size: 28px;
+       
+        /* background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");*/
+      /* background-image: url("https://img.freepik.com/free-photo/abstract-background-cement-wall-shadow-light-concept_53876-30241.jpg");*/
+    }
+   
+   
+   a:hover {
+       background-color: green;
+   }
+   .background{
+       background-image: url("https://thumbs.gfycat.com/BestAggressiveAmphiuma-size_restricted.gif")}
+   #header{
+       font-size: 130px;
+       background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");
+       height: 80px;
+       border: 2px solid black;
+       color: black;
+       text-align: center;
+       font-style: italic;
+       display: flex;
+       align-items: center;
+       padding-left: 150px;
+       border-radius: 9px;
+   }
+   .nav{
+       height: 25px;
+       width: 400px;
+       border: 2px solid red;
+       background-color: yellow;
+       color: red;
+       text-align: center;
+   }
+   .gif{
+      display: inline-block;
+      height: 250px;
+       width: 29.3%;
+      }
+   
+      .gif1{
+       display: inline-block;
+       height: 250px;
+        width: 29.3%;
+      
+      }
+      .gif2{
+       display: inline-block;  
+       height: 250px;
+        width: 29.3%;
+      
+      }
+   .a{
+       background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");
+       color: black;
+       font-size: 35px;
+       text-align: center;
+       font-style: oblique;
+       font-weight: 700;
+       font-family:'Times New Roman', Times, serif;
+   }
+   .paragraph{
+       font-weight: bolder;
+       font-size: 40;
+       border: 5px solid black;
+       background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");
+      height: 250px;
+      width: 100%;
+      padding: 20px;
+      color: black;
+      font-style: italic;
+   }
+   
+   .b{border: 2px solid black;
+       background-color: chartreuse;
+       color: black;
+       font-size: 35px;
+       text-align: center;
+       font-style: oblique;
+       font-weight: 700;
+       font-family:'Times New Roman', Times, serif;
+       margin: 50px;
+   }
+   .c{
+       background-image: url("https://thumbs.gfycat.com/ComplicatedYawningIndiancow.webp")}
+       /*background-image: url("https://thumbs.gfycat.com/AntiqueElegantBlackbuck.webp");}*/
+   .d {
+       text-align: center;
+       margin-left: 600px;
+       font-size: 30px;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   .e {
+       font-weight: 300;
+       text-align: center;
+       margin-left: 35px;
+       font-size: 30px;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   .f{font-style: inherit;
+       font-size: 38px;
+       margin-left: 560px;
+       font-style: italic;
+       font-weight: 300;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   .g{
+       margin-left: 500px;
+   
+   }
+   .p{
+       margin-left: 580px;
+   
+   }
+   .h{
+       margin-left: 150px;
+       display: inline-block;
+     color: green;
+     background-color: black;
+   }
+   .i{
+   
+       display: inline-block;
+       background-color: black;
+   }
+   .j{
+       display: inline-block;
+       background-color: black;
+   }
+   .m{
+       border: 2px solid black;
+       background-color: cornflowerblue;
+       color: red;
+   }
+   .m{
+       margin-left: 580px;
+        color: yellow;
+       border: 4px solid black;
+   }
+   .n{
+       background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");
+        border: 3px solid black;
+        padding: 20px;
+        font-family: "montserrat";
+        cursor:pointer;
+         margin:10px;
+   }
+   .n:hover{
+       color:black;
+   }
+   .o{
+        margin-left: 580px;
+   }
+   .q{
+       font-style: italic;
+       font-size: 30px;
+   }
+   
